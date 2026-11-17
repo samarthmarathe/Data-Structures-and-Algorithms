@@ -2,7 +2,7 @@
 
 Welcome to my **Data Structures and Algorithms** repository!
 
-This repository is a collection of DSA concepts, implementations, coding exercises, and problem-solving approaches. It serves as a documentation of my learning journey towards developing strong programming fundamentals, logical thinking, and algorithmic problem-solving skills.
+This repository is a collection of DSA concepts, implementations, coding exercises, and problem-solving approaches. It documents my learning journey towards developing strong programming fundamentals, logical thinking, and algorithmic problem-solving skills.
 
 ## 📂 Repository Structure
 
@@ -18,42 +18,33 @@ DSA/
 ├── Java/
 │   └── README.md
 │
-├── Python/
-│   └── README.md
-│
 └── README.md
 ```
 
 ## 📚 Topics Covered
 
-| No. | Topic |
-|---|---|
-| 01 | Programming Fundamentals |
-| 02 | Time and Space Complexity |
-| 03 | Arrays |
-| 04 | Strings |
-| 05 | Searching Algorithms |
-| 06 | Sorting Algorithms |
-| 07 | Linked Lists |
-| 08 | Stacks |
-| 09 | Queues |
-| 10 | Recursion and Backtracking |
-| 11 | Hashing |
-| 12 | Trees and Binary Search Trees |
-| 13 | Heaps |
-| 14 | Graphs |
-| 15 | Greedy Algorithms |
-| 16 | Dynamic Programming |
+1. Programming Fundamentals
+2. Time and Space Complexity
+3. Arrays
+4. Strings
+5. Searching Algorithms
+6. Sorting Algorithms
+7. Linked Lists
+8. Stacks
+9. Queues
+10. Recursion and Backtracking
+11. Hashing
+12. Trees and Binary Search Trees
+13. Heaps
+14. Graphs
+15. Greedy Algorithms
+16. Dynamic Programming
 
 ## 💻 Programming Languages
-
-This repository is designed to support multiple programming languages.
 
 - C
 - C++
 - Java
-- Python
-- More languages may be added in the future.
 
 ## 🎯 Goals
 
@@ -82,4 +73,3 @@ This repository is continuously updated as I learn new concepts, explore algorit
 **Consistency is the key to mastery.**
 
 *Learn • Implement • Practice • Improve* 🚀
-
